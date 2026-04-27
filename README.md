@@ -2,7 +2,7 @@
 
 Product Manager turned Web3 builder, working at the intersection of AI and crypto infrastructure.
 
-I spent 3.5+ years as a Product Manager in e-commerce, leading and shipping large-scale initiatives across user growth, authentication, security, compliance, logistics, and system scalability.
+I spent close to 4 years as a Product Manager in e-commerce, leading and shipping large-scale initiatives across user growth, authentication, security, compliance, logistics, and system scalability.
 
 Today, I build decentralized systems focused on AI agents, on-chain incentives, and programmable financial infrastructure.
 
