@@ -23,6 +23,9 @@ Bridging product thinking with engineering.
 ![Gemini](https://img.shields.io/badge/Gemini-Google%20AI-black?style=for-the-badge)
 
 ## Notable Projects
+[Railbridge](https://www.railbridge.ai/) - Railbridge is a financial suite for x402 merchants. A complete merchant dashboard to track x402 revenue, API metrics, and unified account balance. 🏆 Featured in ETHGlobal Spotlight NYC.
+
+[Wealthly](https://apps.apple.com/us/app/wealthly-net-worth-tracker/id6759901874) - AI personal finance app for tracking networth, assets and investments. Live on IOS App Store 📱
 
 [DeltaZero](https://github.com/MarcoBrian/DeltaZero) - (Closed source) Delta neutral strategy for farming airdrop points + spread reversion strategy to minimize fees. 
 
